@@ -1,5 +1,5 @@
 # 💫 About Kimani Njogu:
-Passionate Software Engineer currently working with .Net, c#, PHP,Laravel ,swaggerHub, Java, SpringBoot and Angular/vue
+Passionate Software Engineer currently working with .Net, c#, PHP,Laravel ,swaggerHub, Java, SpringBoot and Angular/vue.
 
 
 ## 🌐 Socials:
