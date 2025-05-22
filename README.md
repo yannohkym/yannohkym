@@ -3,7 +3,7 @@ Passionate Software Engineer currently working with .Net, c#, PHP,Laravel ,swagg
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kelvin_davidd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-david-kimani-91695682) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kelvin_david) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kelvin_davidd) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamyannoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimani-njogu-6b1696207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kimani_njogu) 
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -18,6 +18,6 @@ Passionate Software Engineer currently working with .Net, c#, PHP,Laravel ,swagg
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=k3lv1nd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
