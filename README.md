@@ -1,9 +1,5 @@
 # 💫 About Kimani Njogu:
-Passionate Software Engineer currently working with .Net, c#, PHP,Laravel ,swaggerHub, Java, SpringBoot and Angular/vue.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamyannoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimani-njogu-6b1696207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kimani_njogu) 
+Passionate Software Engineer currently working with .Net, c#, Python,hields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kimani_njogu) 
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
