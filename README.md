@@ -1,5 +1,5 @@
 # 💫 About Kimani Njogu:
-Passionate Software Engineer currently working with .Net, c#, Python,hields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kimani_njogu) 
+Passionate Software Engineer currently working with .Net, c#, python ,[(hields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kimani_njogu) 
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
